@@ -1,9 +1,9 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Capacete Branco",
+	"short_name": "Capacete Branco",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "portrait",
+	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
