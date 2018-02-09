@@ -34,3 +34,6 @@ __José Victor, 17 anos, estudante de Programação de Jogos Digitais no IFRN - 
 
 ## Apresentações
 
+* III Semana do Meio Ambiente de Ceará-Mirim
+* V Expotec - IFRN Apodi
+* I Expotec - IFRN Ceará-Mirim
