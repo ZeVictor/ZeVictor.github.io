@@ -21,8 +21,6 @@ Sou um estudante de jogos que gosta de programar.
 ## Artes
 
 ![TECNOLOGIA DA INFORMAÇÃO](http://piq.codeus.net/static/media/userpics/piq_131028_400x400.png)
- 
- ![TECNOLOGIA DA INFORMAÇÃO]()
- 
+
 ## Apresentações
 
