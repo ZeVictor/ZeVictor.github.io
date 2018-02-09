@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-# Quem sou eu
+# Portifólio de Jogos Digitais
 ![Dono](Eu.png)
 
-Sou um estudante de jogos que gosta de programar.
+~~José Victor, 17 anos, estudante de Programação de Jogos Digitais no IFRN - Ceará Mirim. ~~
+
 
 # Portifólio
 
