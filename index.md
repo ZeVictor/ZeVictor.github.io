@@ -17,7 +17,7 @@ __José Victor, 17 anos, estudante de Programação de Jogos Digitais no IFRN - 
 
 #### Love&Code
 
-[![](Jogo 2.png)](https://zevictor.github.io/Love&Code/)
+[![](Jogo2.png)](https://zevictor.github.io/Love&Code/)
 
 
 #### Capacete Branco
