@@ -12,21 +12,21 @@ __José Victor, 17 anos, estudante de Programação de Jogos Digitais no IFRN - 
 ## Games
 
 
-### Permita-se
+#### Permita-se
 
 [![](Jogo1.png)](https://zevictor.github.io/Permita-se/)
 
 
-### Love&Code
+#### Love&Code
 
 [![](Jogo 2.png)](https://zevictor.github.io/Love&Code/)
 
 
-### Capacete Branco
+#### Capacete Branco
 
 [![](Jogo3.png)](https://zevictor.github.io/CapWhite/)
 
-### Jogando Limpo
+#### Jogando Limpo
 
 [![](Jogo4.png)](https://zevictor.github.io/ProjetoJogo/)
 
