@@ -19,6 +19,10 @@ Sou um estudante de jogos que gosta de programar.
 [JOGO 3 Oficina de Criação : Capacete Branco](https://zevictor.github.io/CapWhite/)
 
 ## Artes
+
+![TECNOLOGIA DA INFORMAÇÃO](http://piq.codeus.net/static/media/userpics/piq_131028_400x400.png)
+ 
+ ![TECNOLOGIA DA INFORMAÇÃO]()
  
 ## Apresentações
 
