@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-Craindo **minha** _página_ ~~princiapl~~.
-
 # Quem sou eu
 
 Sou um estudante de jogos que gosta de programar.
@@ -22,5 +19,6 @@ Sou um estudante de jogos que gosta de programar.
 
 ![TECNOLOGIA DA INFORMAÇÃO](http://piq.codeus.net/static/media/userpics/piq_131028_400x400.png)
 
+![SONHOOOOO](Programming.jpg)
 ## Apresentações
 
