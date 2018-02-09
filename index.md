@@ -4,7 +4,7 @@ layout: default
 # Portifólio de Jogos Digitais
 ![Dono](Eu.png)
 
-~~José Victor, 17 anos, estudante de Programação de Jogos Digitais no IFRN - Ceará Mirim. 
+__José Victor, 17 anos, estudante de Programação de Jogos Digitais no IFRN - Ceará Mirim.__ 
 
 
 # Portifólio
