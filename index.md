@@ -11,7 +11,7 @@ Sou um estudante de jogos que gosta de programar.
 
 [JOGO 1 Oficina de Criação : Permita-se](https://zevictor.github.io/Permita-se/)
 
-[![](Jogo2.png)](https://zevictor.github.io/Love&Code/)
+[![](Jogo 2.png)](https://zevictor.github.io/Love&Code/)
 
 [JOGO 3 Oficina de Criação : Capacete Branco](https://zevictor.github.io/CapWhite/)
 
