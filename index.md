@@ -8,7 +8,7 @@ Sou um estudante de jogos que gosta de programar.
 # Portifólio
 
 ## Games
-
+![Love&Code](Jogo 2.
 [JOGO 1 Oficina de Criação : Permita-se](https://zevictor.github.io/Permita-se/)
 
 [JOGO 2 Oficina de Criação : Love&Code](https://zevictor.github.io/Love&Code/)
