@@ -1,13 +1,5 @@
-Portifólio  
--
+---
+layout: default
+---
 
-![AUTOR](Eu.png)
-
-José Victor, 17 anos, Estudante de Programação de Jogos
-
-Redes Sociais:
--------
-
-Instagram:
-Facebook: 
-GitHub:
+Text can be **bold**, _italic_, or ~~strikethrough~~.
