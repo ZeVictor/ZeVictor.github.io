@@ -31,6 +31,22 @@ José Victor, 17 anos, Estudante de Programação de Jogos
 
 ## Apresentações
 
+* Secitex 2015 - Campus Santa Cruz
+
+* Secitex 2016 - Campus Parnamirim
+
+* V Expotec - Campus Apodi
+
+* I Expotec - Campus Ceará-Mirim
+
+* III Semana do Meio Ambiente de Ceará-Mirim
+
+* III Encontro de Informática do Agreste Potiguar
+
 ## Contatos
+
+* Instagram: @zevictorferreira
+* Facebook: [Victor Ferreira]()
+* GitHub: bdhhdujahsjdh
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
