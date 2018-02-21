@@ -27,4 +27,10 @@ José Victor, 17 anos, Estudante de Programação de Jogos
 
 ### Jogando Limpo
 
+## Artes
+
+## Apresentações
+
+## Contatos
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
