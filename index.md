@@ -60,7 +60,7 @@ layout: default
 
 #### O Orfanato
 
-* É um jogo que está sendo desenvolvido e tem o tema mistério. Trata da história de três amigas que saíram em uma viagem de carro pelo mundo e resolvem parar, porque estava chovendo, em uma casa 
+* É um jogo que está sendo desenvolvido e tem o tema mistério. Trata da história de três amigas que saíram em uma viagem de carro pelo mundo e resolvem parar, porque estava chovendo, em uma casa abandona e lá vão passar por situações assutadoras.
 
 [![](Mock.PNG)](https://zevictor.github.io/Mockup/)
 
