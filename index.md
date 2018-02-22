@@ -36,7 +36,7 @@ layout: default
 
 ### Capacete Branco
 
-* 
+* Capacete Branco retrata os desastres de um típico país em pós-guerra. Ao final, o jogador poderá fazer uma doação ao International Rescue Committee para ajudar aos países que vivenciaram/vivenciam a guerra.
 
 [![](J3.PNG)](https://zevictor.github.io/CapWhite/)
 
