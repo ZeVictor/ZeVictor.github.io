@@ -35,6 +35,8 @@ Formação: Programação de Jogos Digitais (Cursando)
 
 #### Jogando Limpo
 
+[Jogo4: Jogando Limpo] (https://zevictor.github.io/ProjetoJogo/)
+
 ## Artes
 
 ## Apresentações
@@ -55,5 +57,5 @@ Formação: Programação de Jogos Digitais (Cursando)
 
 * **Instagram:** @zevictorferreira
 * **Facebook:** [Victor Ferreira](https://www.facebook.com/victor.gatopb)
-* **GitHub:** (ZeVictor) [https://github.com/ZeVictor]
+* **GitHub:** [ZeVictor] (https://github.com/ZeVictor)
 
