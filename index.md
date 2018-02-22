@@ -27,19 +27,19 @@ Formação: Programação de Jogos Digitais (Cursando)
 
 #### Love&Code
 
-[Jogo2: Love&Code](https://zevictor.github.io/Love&Code/)
+[![](J2.PNG)](https://zevictor.github.io/Love&Code/)
 
 #### Capacete Branco
 
-[Jogo3: Capacete Branco](https://zevictor.github.io/CapWhite/)
+[![](J3.PNG)](https://zevictor.github.io/CapWhite/)
 
 #### Jogando Limpo
 
-[Jogo4: Jogando Limpo](https://zevictor.github.io/ProjetoJogo/)
+[![](J4.PNG)](https://zevictor.github.io/ProjetoJogo/)
 
 ## Mockup's
 
-### O Orfanato
+#### O Orfanato
 
 ## Artes
 
