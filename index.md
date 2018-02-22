@@ -53,8 +53,7 @@ Formação: Programação de Jogos Digitais (Cursando)
 
 ## Contatos
 
-* Instagram: @zevictorferreira
-* Facebook: [Victor Ferreira](https://www.facebook.com/victor.gatopb)
-* GitHub: bdhhdujahsjdh
+* **Instagram:** @zevictorferreira
+* **Facebook:** [Victor Ferreira](https://www.facebook.com/victor.gatopb)
+* **GitHub:** (ZeVictor) [https://github.com/ZeVictor]
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
