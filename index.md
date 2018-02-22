@@ -42,7 +42,7 @@ layout: default
 
 ### Jogando Limpo
 
-* 
+* É um jogo educativo que contém 4 mini-games dentro dele. Foi desenvolvido para realização de um projeto orientado pelo Professor Tiago, o mesmo será utilizado como ferramenta para ensino de hidrografia.
 
 [![](J4.PNG)](https://zevictor.github.io/ProjetoJogo/)
 
