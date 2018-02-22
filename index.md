@@ -30,7 +30,7 @@ layout: default
 
 ### Love&Code
 
-* 
+* É um jogo que trata sobre amor, preconceito e programação é um puzzle, que em cada ponto tem uma pista e ao desvendar essa pista, o jogador é levado até outro ponto e assim sucessivamente, até finalizar a missão. O jogo ganhou premiação de "Melhor Jogo" no 2º bimestre de Oficina de  Criação.
 
 [![](J2.PNG)](https://zevictor.github.io/Love&Code/)
 
