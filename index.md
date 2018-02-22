@@ -6,7 +6,7 @@ layout: default
 
 ![Autor](Eu3.png)
 
-José Victor, 17 anos, Estudante de Programação de Jogos
+                               José Victor, 17 anos, Estudante de Programação de Jogos
 
 ## Games
 
