@@ -73,9 +73,7 @@ layout: default
 * III Encontro de Informática do Agreste Potiguar
 
 * * *
-
 ## Contatos
-
 * * *
 
 * **Instagram:** @zevictorferreira
