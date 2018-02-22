@@ -8,13 +8,17 @@ layout: default
 
 # Dados Pessoais:
 
-Nome: José Victor (Zé)
+**Nome:** José Victor (Zé)
 
-Idade: 17 Anos
+**Idade:** 17 Anos
 
-Formação: Programação de Jogos Digitais (Cursando)
+**Formação:** Programação de Jogos Digitais (Cursando)
+
+*  * *
 
 # Portifólio
+
+* * *
 
 ## Games
 
