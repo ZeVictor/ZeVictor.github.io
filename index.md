@@ -60,7 +60,7 @@ layout: default
 
 #### O Orfanato
 
-* 
+* É um jogo que está sendo desenvolvido e tem o tema mistério. 
 
 [![](Mock.PNG)](https://zevictor.github.io/Mockup/)
 
