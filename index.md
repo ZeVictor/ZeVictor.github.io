@@ -14,13 +14,13 @@ layout: default
 
 **Formação:** Programação de Jogos Digitais (Cursando)
 
-*  * *
-
 # Portifólio
 
 * * *
 
 ## Games
+
+* * *
 
 ### Permita-se
 
@@ -40,13 +40,25 @@ layout: default
 
 [![](J4.PNG)](https://zevictor.github.io/ProjetoJogo/)
 
+* * *
+
 ## Mockup's
+
+* * *
 
 #### O Orfanato
 
+* * *
+
 ## Artes
 
+* * *
+
+* * *
+
 ## Apresentações
+
+* * *
 
 * Secitex 2015 - Campus Santa Cruz
 
@@ -60,7 +72,11 @@ layout: default
 
 * III Encontro de Informática do Agreste Potiguar
 
+* * *
+
 ## Contatos
+
+* * *
 
 * **Instagram:** @zevictorferreira
 * **Facebook:** [Victor Ferreira](https://www.facebook.com/victor.gatopb)
