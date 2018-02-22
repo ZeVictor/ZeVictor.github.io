@@ -66,18 +66,6 @@ layout: default
 
 * * *
 
-## Artes
-
-* * *
-
-*
-
-*
-
-*
-
-* * *
-
 ## Apresentações
 
 * * *
