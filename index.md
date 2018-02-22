@@ -23,7 +23,7 @@ Formação: Programação de Jogos Digitais (Cursando)
 
 * O jogo Permita-se foi desenvolvido no 1º Bimestre da matéria Oficina de Criação e tem como tema Cultura. Através do jogo, quisemos passar a mensagem que todas culturas são válidas e conhecer os elementos de cada uma é necessário. 
 
-[Jogo1: Permita-se](https://zevictor.github.io/Permita-se/)
+![[]((https://zevictor.github.io/Permita-se/))](Jogo1.png)
 
 #### Love&Code
 
