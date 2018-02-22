@@ -48,7 +48,7 @@ layout: default
 
 ### Micro Guerra
 
-* 
+* O jogo “Micro Guerra” está sendo feito para crianças. O objetivo é transferir conhecimentos sobre saúde bucal.
 
 [![](J5.PNG)](https://zevictor.github.io/MicroGuerra/)
 
