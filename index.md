@@ -82,5 +82,5 @@ layout: default
 
 * **Instagram:** @zevictorferreira
 * **Facebook:** [Victor Ferreira](https://www.facebook.com/victor.gatopb)
-* **GitHub:**  [ZeVictor] (https://github.com/ZeVictor)
+* **GitHub:**  [ZeVictor](https://github.com/ZeVictor)
 
