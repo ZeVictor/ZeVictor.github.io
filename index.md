@@ -4,7 +4,7 @@ layout: default
 
 # Portifólio
 
-![Autor](Eu.png)
+![Autor](Eu3.png)
 
 José Victor, 17 anos, Estudante de Programação de Jogos
 
