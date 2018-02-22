@@ -35,7 +35,7 @@ Formação: Programação de Jogos Digitais (Cursando)
 
 #### Jogando Limpo
 
-[Jogo4: Jogando Limpo] (https://zevictor.github.io/ProjetoJogo/)
+[Jogo3: Jogando Limpo](https://zevictor.github.io/ProjetoJogo/)
 
 ## Mockup's
 
