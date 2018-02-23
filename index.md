@@ -66,7 +66,7 @@ layout: default
 
 * * *
 
-Artes
+# Artes
 
 * * *
 
