@@ -70,7 +70,13 @@ layout: default
 
 * * *
 
-! [Arte1](Arte1.png)
+! [Arte1](Arte1.PNG)
+
+! [Arte2](Arte2.PNG)
+
+! [Arte3](Arte3.PNG)
+
+! [Arte4](Arte4.PNG)
 
 
 * * *
