@@ -78,6 +78,9 @@ layout: default
 
 ![Arte4](Arte4.PNG)
 
+* * *
+
+# Mapas de Influência
 
 * * *
 
