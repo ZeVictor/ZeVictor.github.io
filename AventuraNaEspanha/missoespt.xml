@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<missoes>
+	<missao id='1'>
+		<nome>PIZZA:</nome> 
+		<qntd_itens> 2 </qntd_itens>
+		<item id='1'>
+			<nome>Queijo</nome>
+			<referencia>Queso</referencia>
+		</item>
+		<item id='2'>
+			<nome>Salsa</nome>
+			<referencia>Salsa</referencia>
+		</item>
+		<fala>Para iniciar,vamos fazer pizza</fala>
+
+	</missao>
+	<missao id='2'>
+		<nome>GAZPACHO:</nome> 
+		<qntd_itens> 3 </qntd_itens>
+		<item id='1'>
+			<nome>Pepino</nome>
+			<referencia>Pepino</referencia>
+		</item>
+		<item id='2'>
+			<nome>Tomate</nome>
+			<referencia>Tomate</referencia>
+		</item>
+		<item id='3'>
+			<nome>Pimenta</nome>
+			<referencia>Pimienta</referencia>
+		</item>
+		<fala>Agora, tem que fazer Gazpacho</fala>
+		
+	</missao>
+	<missao id='3'>
+		<nome>FEIJOADA:</nome> 
+		<qntd_itens> 4 </qntd_itens>
+		<item id='1'>
+			<nome>Feijão</nome>
+			<referencia>Frijoles</referencia>
+		</item>
+		<item id='2'>
+			<nome>Carnes</nome>
+			<referencia>Carnes</referencia>
+		</item>
+		<item id='3'>
+			<nome>Cebola</nome>
+			<referencia>Cebolla</referencia>
+		</item>
+		<item id='4'>
+			<nome>Açafrão</nome>
+			<referencia>Azafrán</referencia>
+		</item>
+		<fala>Agora vamos fazer Feijoada</fala>
+	</missao>
+</missoes>
